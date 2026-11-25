@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MSTest Test Project/MSTest Test Project.csproj" />
+  <Project Path="Pr31/Pr31.csproj" />
+</Solution>
